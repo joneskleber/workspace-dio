@@ -13,3 +13,6 @@ Progresso](https://certificates.digitalinnovation.one/B27EAD2E)
 
 #### JavaScript
 [Desmistificando map, filter e reduce](https://digitalinnovation.one/certificate/04642DA6)
+
+#### Node.js
+[Explorando o Estilo Arquitetural REST com Node.js](https://certificates.digitalinnovation.one/D4E5D26D)
