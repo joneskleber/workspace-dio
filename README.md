@@ -10,3 +10,6 @@ Respositório criado para a organização do ambiente de trabalho para o desenvo
 [Criando seu Primeiro Repositório
 no GitHub Para Compartilhar Seu
 Progresso](https://certificates.digitalinnovation.one/B27EAD2E)
+
+#### JavaScript
+[Desmistificando map, filter e reduce](https://digitalinnovation.one/certificate/04642DA6)
