@@ -1,5 +1,5 @@
 # WorkSpace DIO
-Respositório criado para a organização do ambiente de trabalho para o desenvolvimetno e aprendizagem na DIO.
+Respositório criado para a organização do ambiente de trabalho para o desenvolvimento e aprendizagem na DIO.
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)<br>
